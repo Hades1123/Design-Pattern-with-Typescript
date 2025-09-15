@@ -1,0 +1,15 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc && node build/factory_pattern/app.js"
+  },
+  "author": "hades",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
